@@ -200,3 +200,35 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   This product bundles a packaging package in a Python 2.7 virtual environment,
+   which is dual licensed under Apache License, Version 2.0, and the BSD License.
+   For details, see tests/dat/actions/python2_virtualenv.zip.
+
+   This product bundles a webencodings package in a Python 2.7 virtual environment,
+   which is under a BSD License. For details, see tests/dat/actions/python2_virtualenv.zip.
+
+   This product bundles a colorama package in a Python 2.7 virtual environment,
+   which is under a BSD License. For details, see tests/dat/actions/python2_virtualenv.zip.
+
+   This product bundles a netifaces-0.10.5 package in a Python 2.7 virtual environment,
+   which is under a MIT License. For details, see tests/dat/actions/python2_virtualenv.zip.
+
+   This product bundles a urllib3 package in a Python 2.7 virtual environment,
+   which is under a MIT License. For details, see tests/dat/actions/python2_virtualenv.zip.
+
+   This product bundles a packaging package in a Python 3.6 virtual environment,
+   which is dual licensed under Apache License, Version 2.0, and the BSD License.
+   For details, see tests/dat/actions/python3_virtualenv.zip.
+
+   This product bundles a webencodings package in a Python 3.6 virtual environment,
+   which is under a BSD License. For details, see tests/dat/actions/python3_virtualenv.zip.
+
+   This product bundles a colorama package in a Python 3.6 virtual environment,
+   which is under a BSD License. For details, see tests/dat/actions/python3_virtualenv.zip.
+
+   This product bundles a netifaces-0.10.5 package in a Python 3.6 virtual environment,
+   which is under a MIT License. For details, see tests/dat/actions/python3_virtualenv.zip.
+
+   This product bundles a urllib3 package in a Python 3.6 virtual environment,
+   which is under a MIT License. For details, see tests/dat/actions/python3_virtualenv.zip.
